@@ -1,8 +1,5 @@
-# リスト変換
-number_tuple = (10,20,30)
-
-# タプルをリスト名に変換
-number_list= list(number_tuple)
+# リスト
+number_list = [10,20,30]
 
 #　０番目と１〜２番目を表示
 print(number_list[0])
